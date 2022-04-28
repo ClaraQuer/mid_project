@@ -1,0 +1,155 @@
+,dimension,indicator_id,indicator_name,autoc,continent,country_name,democ,iso3,polity,region,value
+0,Demography,44206,Total population (millions),162,192,192,162,162,162,192,192
+1,Demography,45106,Urban population (%),162,192,192,162,162,162,192,192
+2,Demography,47906,Median age (years),162,182,182,162,162,162,182,182
+3,Demography,49006,Sex ratio at birth (male to female births),162,182,182,162,162,162,182,182
+4,Demography,63106,Population ages 15–64 (millions),162,182,182,162,162,162,182,182
+5,Demography,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),162,182,182,162,162,162,182,182
+6,Demography,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),162,182,182,162,162,162,182,182
+7,Demography,132706,Population ages 65 and older (millions),162,182,182,162,162,162,182,182
+8,Demography,132806,Population under age 5 (millions),162,182,182,162,162,162,182,182
+9,Education,23806,Population with at least some secondary education (% ages 25 and older),148,164,164,148,148,148,164,164
+10,Education,23906,"Population with at least some secondary education, female (% ages 25 and older)",147,163,163,147,147,147,163,163
+11,Education,24006,"Population with at least some secondary education, male (% ages 25 and older)",147,163,163,147,147,147,163,163
+12,Education,24106,"Mean years of schooling, female (years)",154,168,168,154,154,154,168,168
+13,Education,24206,"Mean years of schooling, male (years)",154,168,168,154,154,154,168,168
+14,Education,45806,Primary school teachers trained to teach (%),96,116,116,96,96,96,116,116
+15,Education,46106,Primary school dropout rate (% of primary school cohort),140,163,163,140,140,140,163,163
+16,Education,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",139,166,166,139,139,139,166,166
+17,Education,63206,"Gross enrolment ratio, primary (% of primary school-age population)",150,176,176,150,150,150,176,176
+18,Education,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",141,165,165,141,141,141,165,165
+19,Education,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",135,151,151,135,135,135,151,151
+20,Education,69706,Expected years of schooling (years),161,189,189,161,161,161,189,189
+21,Education,101406,"Literacy rate, adult (% ages 15 and older)",122,133,133,122,122,122,133,133
+22,Education,103006,Mean years of schooling (years),160,186,186,160,160,160,186,186
+23,Education,123306,"Expected years of schooling, female (years)",155,178,178,155,155,155,178,178
+24,Education,123406,"Expected years of schooling, male (years)",155,178,178,155,155,155,178,178
+25,Education,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",138,164,164,138,138,138,164,164
+26,Education,149206,Government expenditure on education (% of GDP),120,139,139,120,120,120,139,139
+27,Education,176606,Proportion of schools with access to the Internet (%),71,84,84,71,71,71,84,84
+28,Education,176806,Programme for International Student Assessment (PISA) score in science,64,67,67,64,64,64,67,67
+29,Education,176906,Programme for International Student Assessment (PISA) score in reading,64,67,67,64,64,64,67,67
+30,Education,177006,Programme for International Student Assessment (PISA) score in mathematics,64,67,67,64,64,64,67,67
+31,Education,177706,Survival rate to the last grade of lower secondary general education (%),142,167,167,142,142,142,167,167
+32,Environmental sustainability,27706,"Carbon dioxide emissions, per capita (tonnes)",162,190,190,162,162,162,190,190
+33,Environmental sustainability,97106,Fresh water withdrawals (% of total renewable water resources),95,104,104,95,95,95,104,104
+34,Environmental sustainability,100806,Forest area (% of total land area),162,190,190,162,162,162,190,190
+35,Environmental sustainability,174306,Fossil fuel energy consumption (% of total energy consumption),131,135,135,131,131,131,135,135
+36,Environmental sustainability,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),158,184,184,158,158,158,184,184
+37,Environmental sustainability,181606,Red List Index (value),162,192,192,162,162,162,192,192
+38,Gender,31706,Share of seats in parliament (% held by women),162,190,190,162,162,162,190,190
+39,Gender,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",162,182,182,162,162,162,182,182
+40,Gender,68606,Gender Inequality Index (GII),147,158,158,147,147,147,158,158
+41,Gender,123506,"Estimated gross national income per capita, female (2011 PPP $)",160,175,175,160,160,160,175,175
+42,Gender,123606,"Estimated gross national income per capita, male (2011 PPP $)",160,175,175,160,160,160,175,175
+43,Gender,128106,Mandatory paid maternity leave (days),154,175,175,154,154,154,175,175
+44,Gender,167406,"Violence against women ever experienced, intimate partner (% of female population ages 15 and older)",94,107,107,94,94,94,107,107
+45,Gender,167506,"Violence against women ever experienced, nonintimate partner (% of female population ages 15 and older)",46,56,56,46,46,46,56,56
+46,Gender,175006,Female share of employment in senior and middle management (%),73,81,81,73,73,73,81,81
+47,Gender,175206,"Antenatal care coverage, at least one visit (%)",120,142,142,120,120,120,142,142
+48,Gender,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",135,149,149,135,135,135,149,149
+49,Gender,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",110,123,123,110,110,110,123,123
+50,Gender,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),149,153,153,149,149,149,153,153
+51,Gender,175906,"Female share of graduates in science, mathematics, engineering, manufacturing and construction at tertiary level (%)",99,106,106,99,99,99,106,106
+52,Gender,181206,Proportion of births attended by skilled health personnel (%),141,161,161,141,141,141,161,161
+53,Gender,181406,"Child marriage, women married by age 18 (% of women ages 20–24 years who are married or in union)",110,123,123,110,110,110,123,123
+54,Health,57806,"Mortality rate, female adult (per 1,000 people)",158,177,177,158,158,158,177,177
+55,Health,57906,"Mortality rate, male adult (per 1,000 people)",158,177,177,158,158,158,177,177
+56,Health,58006,"HIV prevalence, adult (% ages 15-49)",126,130,130,126,126,126,130,130
+57,Health,69206,Life expectancy at birth (years),162,188,188,162,162,162,188,188
+58,Health,98306,"Child malnutrition, stunting (moderate or severe) (% under age 5)",116,129,129,116,116,116,129,129
+59,Human Security,21806,Refugees by country of origin (thousands),162,188,188,162,162,162,188,188
+60,Human Security,61006,"Homicide rate (per 100,000 people)",153,179,179,153,153,153,179,179
+61,Human Security,128306,"Prison population (per 100,000 people)",158,186,186,158,158,158,186,186
+62,Human Security,181106,Birth registration (% under age 5),148,167,167,148,148,148,167,167
+63,Income/composition of resources,65606,Gross fixed capital formation (% of GDP),154,167,167,154,154,154,167,167
+64,Income/composition of resources,127606,Domestic credit provided by financial sector (% of GDP),149,168,168,149,149,149,168,168
+65,Income/composition of resources,136706,GDP per capita (2011 PPP $),156,183,183,156,156,156,183,183
+66,Income/composition of resources,141706,Gross national income (GNI) per capita (2011 PPP $),160,188,188,160,160,160,188,188
+67,Income/composition of resources,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",156,183,183,156,156,156,183,183
+68,Inequality,67106,"Income inequality, Gini coefficient",140,152,152,140,140,140,152,152
+69,Inequality,101606,Inequality in education (%),150,167,167,150,150,150,167,167
+70,Inequality,101706,Inequality in income (%),141,154,154,141,141,141,154,154
+71,Inequality,101806,Inequality in life expectancy (%),162,182,182,162,162,162,182,182
+72,Inequality,135106,"Income inequality, quintile ratio",140,152,152,140,140,140,152,152
+73,Inequality,135206,"Income inequality, Palma ratio",140,152,152,140,140,140,152,152
+74,International Organisations,1,European Union Membership (True/False),162,192,192,162,162,162,192,192
+75,International Organisations,2,United Nations Membership (True/False),162,192,192,162,162,162,192,192
+76,International Organisations,3,OECD Membership (True/False),162,192,192,162,162,162,192,192
+77,Mobility and communication,46006,Mobile phone subscriptions (per 100 people),162,190,190,162,162,162,190,190
+78,Mobility and communication,110806,"Net migration rate (per 1,000 people)",162,182,182,162,162,162,182,182
+79,Mobility and communication,111106,International inbound tourists (thousands),153,182,182,153,153,153,182,182
+80,Mobility and communication,147206,International student mobility (% of total tertiary enrolment),124,139,139,124,124,124,139,139
+81,Mobility and communication,178106,"Internet users, female (% of female population)",82,87,87,82,82,82,87,87
+82,Other,43606,"Internet users, total (% of population)",161,187,187,161,161,161,187,187
+83,Other,57206,"Mortality rate, infant (per 1,000 live births)",162,190,190,162,162,162,190,190
+84,Other,57506,"Mortality rate, under-five (per 1,000 live births)",162,190,190,162,162,162,190,190
+85,Other,64306,"Infants lacking immunization, measles (% of one-year-olds)",162,190,190,162,162,162,190,190
+86,Other,64406,"Infants lacking immunization, DPT (% of one-year-olds)",162,190,190,162,162,162,190,190
+87,Other,71406,Inequality-adjusted education index,150,166,166,150,150,150,166,166
+88,Other,71506,Inequality-adjusted life expectancy index,162,182,182,162,162,162,182,182
+89,Other,71606,Inequality-adjusted income index,141,154,154,141,141,141,154,154
+90,Other,73506,Overall loss in HDI due to inequality (%),140,150,150,140,140,140,150,150
+91,Other,89006,"Maternal mortality ratio (deaths per 100,000 live births)",162,179,179,162,162,162,179,179
+92,Other,103206,Life expectancy index,162,188,188,162,162,162,188,188
+93,Other,103606,Income index,160,188,188,160,160,160,188,188
+94,Other,103706,Education index,160,186,186,160,160,160,186,186
+95,Other,120606,"Life expectancy at birth, female (years)",162,182,182,162,162,162,182,182
+96,Other,121106,"Life expectancy at birth, male (years)",162,182,182,162,162,162,182,182
+97,Other,135006,Coefficient of human inequality,140,150,150,140,140,140,150,150
+98,Other,136906,"Human Development Index (HDI), female",150,161,161,150,150,150,161,161
+99,Other,137006,"Human Development Index (HDI), male",150,161,161,150,150,150,161,161
+100,Other,137506,Human Development Index (HDI),160,186,186,160,160,160,186,186
+101,Other,137906,Gender Development Index (GDI),150,161,161,150,150,150,161,161
+102,Other,138806,Inequality-adjusted HDI (IHDI),140,150,150,140,140,140,150,150
+103,Other,146206,HDI rank,160,186,186,160,160,160,186,186
+104,Other,149406,Homeless people due to natural disaster (average annual per million people),161,185,185,161,161,161,185,185
+105,Other,163906,Renewable energy consumption (% of total final energy consumption),162,190,190,162,162,162,190,190
+106,Other,164206,"Forest area, change (%)",159,184,184,159,159,159,184,184
+107,Other,169706,Total unemployment rate (female to male ratio),162,177,177,162,162,162,177,177
+108,Other,169806,Youth unemployment rate (female to male ratio),162,177,177,162,162,162,177,177
+109,Other,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",162,177,177,162,162,162,177,177
+110,Other,177106,Population using improved drinking-water sources (%),161,190,190,161,161,161,190,190
+111,Other,177206,Population using improved sanitation facilities (%),162,190,190,162,162,162,190,190
+112,Other,181806,Current health expenditure (% of GDP),158,185,185,158,158,158,185,185
+113,Other,182106,"Malaria incidence (per 1,000 people at risk)",94,97,97,94,94,94,97,97
+114,Other,182206,"Tuberculosis incidence (per 100,000 people)",162,191,191,162,162,162,191,191
+115,Poverty,38406,Multidimensional poverty index (MPI),95,102,102,95,95,95,102,102
+116,Poverty,38506,"Population in multidimensional poverty, intensity of deprivation (%)",95,102,102,95,95,95,102,102
+117,Poverty,38606,"Population in multidimensional poverty, headcount (%)",95,102,102,95,95,95,102,102
+118,Poverty,39006,"Population living below income poverty line, national poverty line (%)",89,93,93,89,89,89,93,93
+119,Poverty,101006,Population in severe multidimensional poverty (%),95,102,102,95,95,95,102,102
+120,Poverty,102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",95,102,102,95,95,95,102,102
+121,Poverty,117806,MPI 2018: Contribution of Education,95,102,102,95,95,95,102,102
+122,Poverty,117906,MPI 2018: Contribution of Health,95,102,102,95,95,95,102,102
+123,Poverty,118006,MPI 2018: Contribution of standard of living,95,102,102,95,95,95,102,102
+124,Poverty,142506,Population vulnerable to multidimensional poverty (%),95,102,102,95,95,95,102,102
+125,Poverty,153706,Working poor at PPP$3.10 a day (% of total employment),125,132,132,125,125,125,132,132
+126,Poverty,167106,"Population living below income poverty line, PPP $1.90 a day (%)",82,86,86,82,82,82,86,86
+127,Poverty,183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2016)",95,102,102,95,95,95,102,102
+128,Socio-economic sustainability,52306,Research and development expenditure (% of GDP),120,126,126,120,120,120,126,126
+129,Socio-economic sustainability,164406,Adjusted net savings (% of GNI),143,151,151,143,143,143,151,151
+130,Socio-economic sustainability,170106,"Income quintile ratio, average annual change (%)",117,123,123,117,117,117,123,123
+131,Socio-economic sustainability,174206,"Total debt service (% of exports of goods, services and primary income)",105,116,116,105,105,105,116,116
+132,Socio-economic sustainability,178306,Gross capital formation (% of GDP),158,171,171,158,158,158,171,171
+133,Socio-economic sustainability,179406,Skilled labour force (% of labour force),130,140,140,130,130,130,140,140
+134,Socio-economic sustainability,179706,Ratio of education and health expenditure to military expenditure,113,116,116,113,113,113,116,116
+135,Socio-economic sustainability,181706,Rural population with access to electricity (%),161,188,188,161,161,161,188,188
+136,Socio-economic sustainability,183206,"Overall loss in HDI value due to inequality, average annual change (%)",128,131,131,128,128,128,131,131
+137,Trade and financial flows,52606,"Remittances, inflows (% of GDP)",150,173,173,150,150,150,173,173
+138,Trade and financial flows,53506,"Foreign direct investment, net inflows (% of GDP)",159,185,185,159,159,159,185,185
+139,Trade and financial flows,99106,Net official development assistance received (% of GNI),118,139,139,118,118,118,139,139
+140,Trade and financial flows,111306,Private capital flows (% of GDP),147,171,171,147,147,147,171,171
+141,Trade and financial flows,133206,Exports and imports (% of GDP),158,181,181,158,158,158,181,181
+142,"Work, employment and vulnerability",43006,Vulnerable employment (% of total employment),162,177,177,162,162,162,177,177
+143,"Work, employment and vulnerability",48706,"Labour force participation rate (% ages 15 and older), female",162,177,177,162,162,162,177,177
+144,"Work, employment and vulnerability",48806,"Labour force participation rate (% ages 15 and older), male",162,177,177,162,162,162,177,177
+145,"Work, employment and vulnerability",110906,"Unemployment, youth (% ages 15–24)",162,177,177,162,162,162,177,177
+146,"Work, employment and vulnerability",123806,Old-age pension recipients (% of statutory pension age population),149,173,173,149,149,149,173,173
+147,"Work, employment and vulnerability",140606,"Unemployment, total (% of labour force)",162,177,177,162,162,162,177,177
+148,"Work, employment and vulnerability",147906,Youth not in school or employment (% ages 15-24),105,113,113,105,105,105,113,113
+149,"Work, employment and vulnerability",148206,Labour force participation rate (% ages 15 and older),162,177,177,162,162,162,177,177
+150,"Work, employment and vulnerability",148306,Employment to population ratio (% ages 15 and older),162,177,177,162,162,162,177,177
+151,"Work, employment and vulnerability",150606,Employment in agriculture (% of total employment),162,177,177,162,162,162,177,177
+152,"Work, employment and vulnerability",150706,Employment in services (% of total employment),162,177,177,162,162,162,177,177
+153,"Work, employment and vulnerability",181306,Child labour (% ages 5-17),67,72,72,67,67,67,72,72

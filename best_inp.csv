@@ -1,0 +1,22 @@
+,indicator_name,dimension
+0,"Estimated gross national income per capita, female (2011 PPP $)",Gender
+1,Gross capital formation (% of GDP),Socio-economic sustainability
+2,"Gross enrolment ratio, pre-primary (% of preschool-age children)",Education
+3,"Income inequality, quintile ratio",Inequality
+4,"Income quintile ratio, average annual change (%)",Socio-economic sustainability
+5,International student mobility (% of total tertiary enrolment),Mobility and communication
+6,"Life expectancy at birth, male (years)",Demography
+7,Mandatory paid maternity leave (days),Gender
+8,"Mean years of schooling, female (years)",Education
+9,Mobile phone subscriptions (per 100 people),Mobility and communication
+10,Old-age pension recipients (% of statutory pension age population),"Work, employment and vulnerability"
+11,Population vulnerable to multidimensional poverty (%),Poverty
+12,Primary school dropout rate (% of primary school cohort),Education
+13,Proportion of births attended by skilled health personnel (%),Gender
+14,"Remittances, inflows (% of GDP)",Trade and financial flows
+15,Rural population with access to electricity (%),Socio-economic sustainability
+16,Sex ratio at birth (male to female births),Demography
+17,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)","Work, employment and vulnerability"
+18,Total unemployment rate (female to male ratio),Gender
+19,"Tuberculosis incidence (per 100,000 people)",Health
+20,Youth not in school or employment (% ages 15-24),"Work, employment and vulnerability"
